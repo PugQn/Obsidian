@@ -8,35 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ced1586067d56233",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
             "id": "401f12f9bffb196f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1 - structs and linked lists/Untitled.md",
+                "file": "Week 1 - structs and linked lists/1. Structs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "1. Structs"
+            }
+          },
+          {
+            "id": "9ec5c8a54517cd49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1 - structs and linked lists/1. Structs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Structs"
+            }
+          },
+          {
+            "id": "8415ea2633ad8a39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1 - structs and linked lists/3. Linked Lists.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Linked Lists"
+            }
+          },
+          {
+            "id": "63c9a17a5314ef7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 2 - linked lists and stacks/1. Linked lists pt.2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Linked lists pt.2"
+            }
+          },
+          {
+            "id": "af103af353a42d44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 2 - linked lists and stacks/Stacks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stacks"
+            }
+          },
+          {
+            "id": "2ab96ad6f3553ea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1 - structs and linked lists/Tutorial 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tutorial 1"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -93,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "073db0032002d21f",
@@ -181,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +252,15 @@
   },
   "active": "429267b72151ba9a",
   "lastOpenFiles": [
+    "Week 2 - linked lists and stacks/Stacks.md",
+    "Week 1 - structs and linked lists/Tutorial 1.md",
+    "Week 2 - linked lists and stacks/1. Linked lists pt.2.md",
+    "Week 1 - structs and linked lists/3. Linked Lists.md",
+    "Week 2 - linked lists and stacks",
+    "Week 1 - structs and linked lists/1. Structs.md",
+    "Week 1 - structs and linked lists/2. Reference and Pointers.md",
+    "create a link.md",
     "Welcome.md",
-    "Week 1 - structs and linked lists/Untitled.md",
     "Week 1 - structs and linked lists",
     "ADS"
   ]
