@@ -13,5 +13,3 @@ Consider reading in multi digit numbers
 - division by 0
 - incorrect order of operators and numbers
 
-Input to string expression;
-
