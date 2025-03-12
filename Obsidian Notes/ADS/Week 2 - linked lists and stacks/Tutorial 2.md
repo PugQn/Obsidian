@@ -43,4 +43,75 @@ display top of S;  // top of S will be the final result
 ```
 
 1. Discuss how you can tell that there are too many numbers or too many operators based on the algorithm and the state of the stack.
+*If there are too many numbers, the stack has more than one value at the end of the algorithm.*
+*If there are too many operators, the top() method is going to fail, i.e., there are no numbers available on the stack to cater for that next operator.*
 
+```
+float Stack::Top() {    
+	if (isEmpty != true) {
+		return data[index];
+	}
+    else {
+		cout << "Not enough numbers for the operators."
+    }
+};
+
+while (there is still something in the expression)	{	
+	if (a space) do nothing; 
+	if (a number) push the number onto S; //The stack becomes a list of integers
+	
+	if (an operator) {
+//S has at least 1 number in it
+		if (isEmpty != NULL) {
+			op2 = Top();
+			Pop(); //Clear the number from the stack
+		}
+		else {
+			cout << "Not enough numbers for the operators.";
+		}
+		
+//S is still not empty there are enough numbers to do the operation
+		if (isEmpty != NULL) {  
+			op1 = Top();
+			Pop(); //Clear the number from the stack
+		}
+		else {
+			cout << "Not enough numbers for the operators.";
+		}
+		
+		result = apply the operator to op1 and op2; 
+		push result onto S; 
+	} 
+} 
+
+//Put final answer to result & remove from stack
+result = Top();
+Pop();
+
+//Run check to see if more numbers left
+if (isEmpty() == true) {
+	cout << result;
+}
+else {
+	cout << "There are left over numbers in the stack."
+}
+```
+
+2. Show how the algorithm works by hand, drawing the state of the stack every time the stack changes. Consider the expression: 27  3  4  6  *  +  /  8  +
+
+| Stack    | Expression                 | Working |
+| -------- | -------------------------- | ------- |
+|          | 27  3  4  6  *  +  /  8  + |         |
+| 27       | 3  4  6  *  +  /  8  +     |         |
+| 27 3     | 4  6  *  +  /  8  +        |         |
+| 27 3 4   | 6  *  +  /  8  +           |         |
+| 27 3 4 6 | *  +  /  8  +              |         |
+| 27 3     | +  /  8  +                 | 4 * 6   |
+| 27 3 24  |                            |         |
+| 27       | /  8  +                    | 3 + 24  |
+| 27 27    |                            |         |
+|          | 8  +                       | 27 / 27 |
+| 1        |                            |         |
+| 1 8      | +                          |         |
+|          |                            | 1 + 8   |
+| 9        |                            |         |

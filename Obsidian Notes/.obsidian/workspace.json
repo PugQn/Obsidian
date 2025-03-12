@@ -25,18 +25,50 @@
             "id": "a7f2d82d75b2da31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ADS/Week 2 - linked lists and stacks/Tutorial 2.md",
-                "mode": "source",
-                "source": false
+                "file": "ADS/Assignments/Assignment 2/159201_A2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Tutorial 2"
+              "icon": "lucide-file-text",
+              "title": "159201_A2"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "57f12e1259560b78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9078fffe12eda38c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADS/Assignments/Assignment 2/Assignment 2 Algorithm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assignment 2 Algorithm"
+            }
+          },
+          {
+            "id": "ab15e595a020a18a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADS/Assignments/Assignment 2/AI usage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI usage"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "073db0032002d21f",
@@ -110,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADS/Week 2 - linked lists and stacks/Tutorial 2.md",
+                "file": "ADS/Assignments/Assignment 2/Assignment 2 Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tutorial 2"
+              "title": "Backlinks for Assignment 2 Algorithm"
             }
           },
           {
@@ -129,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADS/Week 2 - linked lists and stacks/Tutorial 2.md",
+                "file": "ADS/Assignments/Assignment 2/Assignment 2 Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tutorial 2"
+              "title": "Outgoing links from Assignment 2 Algorithm"
             }
           },
           {
@@ -158,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADS/Week 2 - linked lists and stacks/Tutorial 2.md",
+                "file": "ADS/Assignments/Assignment 2/Assignment 2 Algorithm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tutorial 2"
+              "title": "Outline of Assignment 2 Algorithm"
             }
           },
           {
@@ -182,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,13 +226,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7f2d82d75b2da31",
+  "active": "9078fffe12eda38c",
   "lastOpenFiles": [
-    "Daily/2025-03-12.md",
-    "Daily/2025-03-12.md",
+    "ADS/Assignments/Assignment 2/AI usage.md",
+    "Attachments/Pasted image 20250312154037.png",
+    "ADS/Assignments/Assignment 2/Assignment 2 Algorithm.md",
+    "Attachments/Pasted image 20250312153854.png",
+    "ADS/Assignments/Assignment 2/159201_A2.pdf",
+    "ADS/Assignments/Assignment 2",
     "ADS/Week 2 - linked lists and stacks/Tutorial 2.md",
-    "Daily",
+    "Daily/2025-03-12.md",
+    "Attachments/159201_A2.pdf.crdownload",
+    "Attachments",
+    "ADS/Assignments",
     "ADS/Week 2 - linked lists and stacks/2. Stacks.md",
+    "Daily",
     "ADS/Week 1 - structs and linked lists/Tutorial 1.md",
     "ADS/Week 2 - linked lists and stacks/1. Linked lists pt.2.md",
     "ADS/Week 1 - structs and linked lists/3. Linked Lists.md",
