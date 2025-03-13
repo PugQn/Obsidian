@@ -8,40 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ab96ad6f3553ea1",
+            "id": "f34a0f1fabd4b5fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADS/Week 2 - linked lists and stacks/2. Stacks.md",
+                "file": "OOP/Week 1 - Intro to Java/2. Intro to Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Stacks"
+              "title": "2. Intro to Java"
             }
-          }
-        ]
-      },
-      {
-        "id": "57f12e1259560b78",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "ab15e595a020a18a",
+            "id": "d848050030b51fea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADS/Assignments/Assignment 2/Assignment 2 Algorithm.md",
+                "file": "OOP/Week 1 - Intro to Java/3. Java Build and Run Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assignment 2 Algorithm"
+              "title": "3. Java Build and Run Process"
+            }
+          },
+          {
+            "id": "3678b8005c7f5c9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOP/Week 1 - Intro to Java/1. Java Variables & Operators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Java Variables & Operators"
+            }
+          },
+          {
+            "id": "99643b5d018430c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOP/Week 1 - Intro to Java/Tutorial 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tutorial 1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,16 +223,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab15e595a020a18a",
+  "active": "3678b8005c7f5c9c",
   "lastOpenFiles": [
+    "OOP/Week 1 - Intro to Java/3. Java Build and Run Process.md",
+    "OOP/Week 1 - Intro to Java/1. Java Variables & Operators.md",
+    "OOP/Week 2 -",
+    "OOP/Week 1 - Intro to Java/2. Intro to Java.md",
+    "OOP/Week 1 - Intro to Java/Tutorial 1.md",
+    "Attachments/Pasted image 20250314110638.png",
+    "OOP/Week 1 - Intro to Java/1. Intro to the course.md",
+    "ADS/Week 2 - linked lists and stacks/1. Linked lists pt.2.md",
+    "OOP/Week 1 - Intro to Java",
+    "ADS/Week 2 - linked lists and stacks/2. Stacks.md",
+    "OOP",
+    "ADS/Assignments/Assignment 2/Assignment 2 Algorithm.md",
     "ADS/Assignments/Assignment 2/AI usage.md",
     "Attachments/Pasted image 20250314104428.png",
     "Attachments/Pasted image 20250313073709.png",
     "ADS/Assignments/Assignment 2/159201_A2.pdf",
     "Daily/2025-03-12.md",
     "Daily/2025-03-13.md",
-    "ADS/Assignments/Assignment 2/Assignment 2 Algorithm.md",
-    "ADS/Week 2 - linked lists and stacks/2. Stacks.md",
     "Attachments/Pasted image 20250312154037.png",
     "Attachments/Pasted image 20250312153854.png",
     "ADS/Assignments/Assignment 2",
@@ -219,14 +252,11 @@
     "ADS/Assignments",
     "Daily",
     "ADS/Week 1 - structs and linked lists/Tutorial 1.md",
-    "ADS/Week 2 - linked lists and stacks/1. Linked lists pt.2.md",
     "ADS/Week 1 - structs and linked lists/3. Linked Lists.md",
     "ADS/Week 2 - linked lists and stacks",
     "ADS/Week 1 - structs and linked lists/1. Structs.md",
     "ADS/Week 1 - structs and linked lists/2. Reference and Pointers.md",
     "create a link.md",
-    "Welcome.md",
-    "ADS/Week 1 - structs and linked lists",
-    "ADS"
+    "Welcome.md"
   ]
 }
