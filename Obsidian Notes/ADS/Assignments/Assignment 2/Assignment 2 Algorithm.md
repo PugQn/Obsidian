@@ -13,3 +13,7 @@ Consider reading in multi digit numbers
 - division by 0
 - incorrect order of operators and numbers
 
+Don't forget to 
+- check for end of string issues
+- put in error messages for invalid input
+- null checks
