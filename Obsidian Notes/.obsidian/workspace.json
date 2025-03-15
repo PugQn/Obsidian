@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de140e721e19a324",
+        "id": "22dcb45ce1adfd27",
         "type": "tabs",
         "children": [
           {
-            "id": "f34a0f1fabd4b5fb",
+            "id": "e2c99ca51c7e1aa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "e5b1ffe6eb0d0ce2",
+            "id": "77e308b0ac73b2cc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ADS/Assignments/Assignment 2/159201_A2.pdf"
+                "file": "OOP/Week 2 -/3. Control Structures.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "159201_A2"
+              "icon": "lucide-file",
+              "title": "3. Control Structures"
             }
           }
         ],
@@ -193,10 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5b1ffe6eb0d0ce2",
+  "active": "77e308b0ac73b2cc",
   "lastOpenFiles": [
     "OOP/Week 2 -/1. Java Variables & Operators.md",
+    "OOP/Week 2 -/3. Control Structures.md",
     "ADS/Assignments/Assignment 2/159201_A2.pdf",
+    "Attachments/Pasted image 20250312153854.png",
+    "ADS/Assignments/Assignment 2/AI usage.md",
     "OOP/Week 2 -/2. Arrays.md",
     "Attachments/Pasted image 20250314121830.png",
     "OOP/Week 1 - Intro to Java/2. Intro to Java.md",
@@ -213,13 +218,11 @@
     "ADS/Week 2 - linked lists and stacks/2. Stacks.md",
     "OOP",
     "ADS/Assignments/Assignment 2/Assignment 2 Algorithm.md",
-    "ADS/Assignments/Assignment 2/AI usage.md",
     "Attachments/Pasted image 20250314104428.png",
     "Attachments/Pasted image 20250313073709.png",
     "Daily/2025-03-12.md",
     "Daily/2025-03-13.md",
     "Attachments/Pasted image 20250312154037.png",
-    "Attachments/Pasted image 20250312153854.png",
     "ADS/Assignments/Assignment 2",
     "ADS/Week 2 - linked lists and stacks/Tutorial 2.md",
     "Attachments/159201_A2.pdf.crdownload",
