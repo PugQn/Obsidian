@@ -25,14 +25,12 @@
             "id": "e5b1ffe6eb0d0ce2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "OOP/Week 2 -/2. Arrays.md",
-                "mode": "source",
-                "source": false
+                "file": "ADS/Assignments/Assignment 2/159201_A2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2. Arrays"
+              "icon": "lucide-file-text",
+              "title": "159201_A2"
             }
           }
         ],
@@ -198,6 +196,7 @@
   "active": "e5b1ffe6eb0d0ce2",
   "lastOpenFiles": [
     "OOP/Week 2 -/1. Java Variables & Operators.md",
+    "ADS/Assignments/Assignment 2/159201_A2.pdf",
     "OOP/Week 2 -/2. Arrays.md",
     "Attachments/Pasted image 20250314121830.png",
     "OOP/Week 1 - Intro to Java/2. Intro to Java.md",
@@ -217,7 +216,6 @@
     "ADS/Assignments/Assignment 2/AI usage.md",
     "Attachments/Pasted image 20250314104428.png",
     "Attachments/Pasted image 20250313073709.png",
-    "ADS/Assignments/Assignment 2/159201_A2.pdf",
     "Daily/2025-03-12.md",
     "Daily/2025-03-13.md",
     "Attachments/Pasted image 20250312154037.png",
