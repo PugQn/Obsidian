@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP/Week 2 -/Tutorial 2.md",
+                "file": "Daily/2025-03-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tutorial 2"
+              "title": "2025-03-17"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "b811729e24182a8c",
   "lastOpenFiles": [
-    "OOP/Week 2 -/2. Arrays.md",
     "OOP/Week 2 -/Tutorial 2.md",
+    "Daily/2025-03-17.md",
+    "OOP/Week 2 -/2. Arrays.md",
     "OOP/Week 2 -/3. Control Structures.md",
     "OOP/Week 2 -/1. Java Variables & Operators.md",
     "ADS/Assignments/Assignment 2/159201_A2.pdf",
