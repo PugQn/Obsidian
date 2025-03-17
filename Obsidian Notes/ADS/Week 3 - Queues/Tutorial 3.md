@@ -15,8 +15,35 @@ No need to store port numbers if vector it is stored in represents the port
 *What would be a sensible data structure to store the processing order?*
 
 Vectors are not so good as removing the first one will require all others to shuffle forwards.
-Can use a ring buffer - vector with wrap around - limited space tho....
+Can use a ring buffer - vector with wrap around - limited space tho.... grow or shrink the vector as needed. resize at specified time.
+
 A queue would be better
 implement using a linked list is better - used with pointers at both ends, insert at end, remove from beginning
 
 
+## Question 4
+*In which order do packets from the following input get processed?*
+Cycle 1: *2 2 ports 2 for*
+Cycle 2: *2 2 order 1 matter*
+
+
+Cycle 1:
+QUEUES
+Port1: 
+Port2: ports, for
+OUTPUTS
+Port1: 
+Port2: ports
+Port1: 
+Port2: for
+
+Cycle 2:
+QUEUES
+Port1: matter
+Port2: order
+OUTPUTS
+Port1: matter
+Port2: order
+
+
+Need to learn more about vectors. How are they resized? What triggers their growth/shrinkage?
