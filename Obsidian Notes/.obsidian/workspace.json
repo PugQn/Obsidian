@@ -10,6 +10,7 @@
           {
             "id": "1d01776467cdd1ad",
             "type": "tabs",
+            "dimension": 62.1124031007752,
             "children": [
               {
                 "id": "eba32398732f5aa9",
@@ -28,6 +29,7 @@
           {
             "id": "81aafab50aae5d75",
             "type": "tabs",
+            "dimension": 37.8875968992248,
             "children": [
               {
                 "id": "340698a75f9e289c",
@@ -42,8 +44,37 @@
                   "icon": "lucide-file",
                   "title": "2025-03-21"
                 }
+              },
+              {
+                "id": "d8653708a75b95e8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "OOP/Assignment 1/Assignment Notes.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Assignment Notes"
+                }
+              },
+              {
+                "id": "8e3cbe8f4ca73200",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AI Usage.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "AI Usage"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -206,11 +237,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "340698a75f9e289c",
+  "active": "d8653708a75b95e8",
   "lastOpenFiles": [
+    "AI Usage.md",
+    "OOP/Assignment 1/Assignment1_2025.pdf",
+    "Attachments/Pasted image 20250321103645.png",
+    "Attachments/Pasted image 20250321103629.png",
+    "Attachments/Pasted image 20250321103537.png",
     "OOP/Assignment 1/Assignment Notes.md",
     "Daily/2025-03-21.md",
-    "OOP/Assignment 1/Assignment1_2025.pdf",
     "OOP/Week 3 - Classes, Objects and Encapsulation/3. Java Objects.md",
     "OOP/Week 3 - Classes, Objects and Encapsulation/2. Java Classes.md",
     "OOP/Week 3 - Classes, Objects and Encapsulation/Tutorial 4.md",
@@ -246,8 +281,6 @@
     "Attachments/Pasted image 20250314110638.png",
     "OOP/Week 1 - Intro to Java/1. Intro to the course.md",
     "ADS/Week 2 - linked lists and stacks/1. Linked lists pt.2.md",
-    "ADS/Week 2 - linked lists and stacks/2. Stacks.md",
-    "ADS/Assignments/Assignment 2/Assignment 2 Algorithm.md",
     "Attachments/Pasted image 20250314104428.png",
     "Attachments/Pasted image 20250313073709.png",
     "Attachments/Pasted image 20250312154037.png"
