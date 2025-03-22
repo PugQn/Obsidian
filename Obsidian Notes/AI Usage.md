@@ -19,4 +19,5 @@ Main will only hold the main function.
 Models will hold the object classes.
 Utils will hold any other functions that need to happen to complete the assignment.
 
-
+I was struggling with the idea of keeping the list of majors a school has as an array within the School object. I wanted to know if this was the best approach. I initially considered it because it would make identifying a school's related majors easier. But to implement it properly would need maps. The advice from AI encouraged me to stick with this idea as it better meets OOP principles as the school should have ownership of its majors.
+![[Pasted image 20250322164806.png]]![[Pasted image 20250322165110.png]]
