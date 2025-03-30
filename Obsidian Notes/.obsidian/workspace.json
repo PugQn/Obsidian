@@ -25,12 +25,14 @@
             "id": "91e652a0727dcd41",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ADS/Assignments/Assignment 3/159201_ass3 (1).pdf"
+                "file": "Daily/2025-03-31.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "159201_ass3 (1)"
+              "icon": "lucide-file",
+              "title": "2025-03-31"
             }
           }
         ],
@@ -196,8 +198,9 @@
   },
   "active": "91e652a0727dcd41",
   "lastOpenFiles": [
-    "ADS/Assignments/Assignment 3/AI.md",
     "ADS/Assignments/Assignment 3/159201_ass3 (1).pdf",
+    "Daily/2025-03-31.md",
+    "ADS/Assignments/Assignment 3/AI.md",
     "ADS/Assignments/Assignment 3/Notes.md",
     "Attachments/Pasted image 20250325061050.png",
     "OOP/Assignment 1/Assignment1_2025.pdf",
@@ -239,7 +242,6 @@
     "OOP/Week 2 -/Tutorial 2.md",
     "OOP/Week 2 -/3. Control Structures.md",
     "ADS/Assignments/Assignment 2/AI usage.md",
-    "OOP/Week 1 - Intro to Java/Tutorial 1.md",
-    "OOP/Week 1 - Intro to Java/1. Intro to the course.md"
+    "OOP/Week 1 - Intro to Java/Tutorial 1.md"
   ]
 }
